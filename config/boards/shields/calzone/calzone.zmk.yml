@@ -1,0 +1,12 @@
+file_format: "1"
+id: calzone
+name: calzone
+type: shield
+url: https://github.com/kaushikaryan/zmk-config-calzone
+requires: [pro_micro]
+features:
+  - keys
+  - studio
+siblings:
+  - calzone_left
+  - calzone_right
