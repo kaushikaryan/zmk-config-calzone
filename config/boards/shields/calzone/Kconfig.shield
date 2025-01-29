@@ -1,0 +1,5 @@
+config SHIELD_CALZONE_LEFT
+    def_bool $(shields_list_contains,calzone_left)
+
+config SHIELD_CALZONE_RIGHT
+    def_bool $(shields_list_contains,calzone_right)
