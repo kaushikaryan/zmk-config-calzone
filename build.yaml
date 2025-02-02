@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: calzone_left nice_view_adapter nice_view
+    shield: calzone_left
   - board: nice_nano_v2
-    shield: calzone_right nice_view_adapter nice_view
+    shield: calzone_right
